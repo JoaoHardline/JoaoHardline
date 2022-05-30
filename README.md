@@ -1,6 +1,6 @@
 Hi I'm João Pedro. 
 I Study Computer Engineering at USP - University of São Paulo.
-Here, probably, I'll post my projects from college.
+My interests are: Web development, games, InfoSec, computer architectures and many others
 
 <!---
 JoaoHardline/JoaoHardline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
